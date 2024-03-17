@@ -1,0 +1,18 @@
+.facts{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.facts__button{
+    width: 150px;
+    margin-left: 10px;
+}
+
+.facts__input{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 50%;
+    height: 30px;
+    font-size: 20px;
+}
